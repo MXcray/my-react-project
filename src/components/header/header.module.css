@@ -1,0 +1,15 @@
+.header {
+	background-color: rgb(23, 22, 39);
+}
+.logo {
+	display: flex;
+}
+.title {
+	color: rgb(199, 198, 198);
+	padding-top: 28px;
+	padding-left: 10px;  
+	text-transform: uppercase;
+}
+.title span {
+    color: #61dafb;
+}

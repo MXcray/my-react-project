@@ -15,28 +15,14 @@ img {
 	width: 100px;
 }
 /* ==============================Global==================================*/
+.wrapper {
+	display: flex;
+	width: 100%;
+}
+
+/*===============================Header===================================*/
 .container {
 	max-width: 1200px;
 	margin: 0 auto;
 }
-.title {
-	font-size: 30px;
-	font-weight: bold;
-}
-.subtitle {}
-/*===============================Header===================================*/
-.header {
-	background-color: rgb(23, 22, 39);
-}
-.header__title {
-	color: rgb(199, 198, 198);
-	padding-top: 25px;
-	padding-left: 10px;  
-}
-.header__title span {
-	color: #61dafb;
-}
 
-.logo {
-	display: flex;
-}

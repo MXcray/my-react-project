@@ -1,0 +1,18 @@
+.dialogs {
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+}
+.members {
+    width: 30%;
+    /*padding-left: 30px;*/
+}
+.member.active {
+    color: #61dafb;
+    font-size: 20px;
+}
+.member {}
+.messages {
+    width: 70%;
+}
+.message {}

@@ -1,0 +1,15 @@
+.nav {
+    width: 15%;
+    height: 600px;
+    background-color: #666;
+}
+.item {}
+.active {
+    color: #61dafb;
+}
+.list {
+    text-align: center;
+}
+.title {
+    font-size: 30px;
+}
